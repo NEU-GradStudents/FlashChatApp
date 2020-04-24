@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">685699171165-odn4ijbmb7cutia7l274dl165d57ikug.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://hypergarage-sale-rekha.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">685699171165</string>
+    <string name="google_api_key" translatable="false">AIzaSyCwsORZe-EPNXzqoE6l5UVipZkDmtEFAwY</string>
+    <string name="google_app_id" translatable="false">1:685699171165:android:10afa421770244efda5eb4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCwsORZe-EPNXzqoE6l5UVipZkDmtEFAwY</string>
+    <string name="google_storage_bucket" translatable="false">hypergarage-sale-rekha.appspot.com</string>
+    <string name="project_id" translatable="false">hypergarage-sale-rekha</string>
+</resources>

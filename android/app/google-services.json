@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685699171165",
+    "firebase_url": "https://hypergarage-sale-rekha.firebaseio.com",
+    "project_id": "hypergarage-sale-rekha",
+    "storage_bucket": "hypergarage-sale-rekha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685699171165:android:10afa421770244efda5eb4",
+        "android_client_info": {
+          "package_name": "com.rekhaapp.hypergaragesale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685699171165-odn4ijbmb7cutia7l274dl165d57ikug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwsORZe-EPNXzqoE6l5UVipZkDmtEFAwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685699171165-odn4ijbmb7cutia7l274dl165d57ikug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
