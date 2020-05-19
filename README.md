@@ -1,4 +1,4 @@
-# hypergaragesale
+#FlashChat App
 
 A new Flutter application.
 
